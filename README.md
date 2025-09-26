@@ -1,5 +1,5 @@
 # paul vivier 
-Current status on my work
+This is my current work status. [See paintings](http://www.vivier.net/paintings)
 
 ### Sept 26, 2025 - Lovely morning for a walk
 Letting Miss Martha dry today so I can apply lines w/o worry of smudging. While drying, I'm going to starting on an underpainting of Miss Ella Sue shrimp boat. Very complex picture, so I'm interested to see how this will turn out. Will I dive into the details, or edit the complexity out? Listening to an audiobook of Karen Armstrong's "The Battle for God: History of Fundamentalism". I was trying to find an audiobook of her other book "The History of God", but this seems close enough. 
