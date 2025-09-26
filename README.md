@@ -1,4 +1,4 @@
-# status
+# .plan
 Current status on my work
 
 ## Sept 26, 2025 - Lovely morning for a walk
