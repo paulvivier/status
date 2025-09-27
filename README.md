@@ -1,5 +1,5 @@
 # paul vivier
-This is my current work status (URL)[https://paulvivier.github.io/status/]. [See paintings](http://www.vivier.net/paintings)
+This is my current work status [URL](https://paulvivier.github.io/status/). [See paintings](http://www.vivier.net/paintings)
 
 ### Sept 27, 2025 - Storms a brewin'
 Completed underpainting of Miss Ella Sue shrimp boat. Mowed grass and edged. Working on adding lines to silhouette of Miss Martha. Need to give Wolf a bath. Should also probably test generator, or at least unpack it.
