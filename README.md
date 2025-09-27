@@ -1,5 +1,5 @@
 # paul vivier
-This is my current work status. [See paintings](http://www.vivier.net/paintings)
+This is my current work status (URL)[https://paulvivier.github.io/status/]. [See paintings](http://www.vivier.net/paintings)
 
 ### Sept 27, 2025 - Storms a brewin'
 Completed underpainting of Miss Ella Sue shrimp boat. Mowed grass and edged. Working on adding lines to silhouette of Miss Martha. Need to give Wolf a bath. Should also probably test generator, or at least unpack it.
@@ -13,6 +13,6 @@ Color added to Miss Martha silhouette and I may be learning to spell silhouette.
 
 
 ### Sept 24, 2025 - Day after the rapture
-Today I am working on adding color to the underpainting that I've started of the Miss Martha shrimp boat. This is a silhouetted profile view as the boat sits at the dock in the Appalachicola bay.
+Today I am working on adding color to the underpainting that I've started of the Miss Martha shrimp boat. This is a silhouetted profile view as the boat sits at the dock in the Apalachicola bay.
 
 Awaiting responses on permission to paint the Rockydale quarry in South Roanoke and from inside the Wells Fargo tower in downtown Roanoke. Am reading "The Rock Book" and developing a fascination with the Roanoke Typewriter Sales Company.
