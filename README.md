@@ -1,8 +1,12 @@
-# paul vivier 
+# paul vivier
 This is my current work status. [See paintings](http://www.vivier.net/paintings)
 
+### Sept 27, 2025 - Storms a brewin'
+Completed underpainting of Miss Ella Sue shrimp boat. Mowed grass and edged. Working on adding lines to silhouette of Miss Martha. Need to give Wolf a bath. Should also probably test generator, or at least unpack it.
+
+
 ### Sept 26, 2025 - Lovely morning for a walk
-Letting Miss Martha dry today so I can apply lines w/o worry of smudging. While drying, I'm going to starting on an underpainting of Miss Ella Sue shrimp boat. Very complex picture, so I'm interested to see how this will turn out. Will I dive into the details, or edit the complexity out? Listening to an audiobook of Karen Armstrong's "The Battle for God: History of Fundamentalism". I was trying to find an audiobook of her other book "The History of God", but this seems close enough. 
+Letting Miss Martha dry today so I can apply lines w/o worry of smudging. While drying, I'm going to starting on an underpainting of Miss Ella Sue shrimp boat. Very complex picture, so I'm interested to see how this will turn out. Will I dive into the details, or edit the complexity out? Listening to an audiobook of Karen Armstrong's "The Battle for God: History of Fundamentalism". I was trying to find an audiobook of her other book "The History of God", but this seems close enough.
 
 ### Sept 25, 2025 - Overcast morning
 Color added to Miss Martha silhouette and I may be learning to spell silhouette. Painting is simple enough that this is going quickly. Hope to finish with details today. Have approval from property manager to go paint a vacant floor in the Wells Fargo tower. Schedule TBD.
