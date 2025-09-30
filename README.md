@@ -1,8 +1,18 @@
 # paul vivier
 This is my current work status [URL](https://paulvivier.github.io/status/). [See paintings](http://www.vivier.net/paintings)
 
+### Sept 30, 2025
+Hiked up Read Mountain and trying out Gemini AI for DnD
+
+
+### Sept 29, 2025 - still waiting for the storm
+Did some yardwork. Yardwork = gardenwork. Gardenwork = gym work. People that pay for gym memberships should buy a shovel and a rake. Skip the leaf blower and get a rake.
+
+
 ### Sept 27, 2025 - Storms a brewin'
 Completed underpainting of Miss Ella Sue shrimp boat. Mowed grass and edged. Working on adding lines to silhouette of Miss Martha. Need to give Wolf a bath. Should also probably test generator, or at least unpack it.
+
+Quoted by Karen Armstrong in an interview: ["Lines Written a Few Miles Above Tintern Abbey, on Revisiting The Banks of the Wye During a Tour - July 13, 1798 - Wordsworth "](https://www.gutenberg.org/files/9622/9622-h/9622-h.htm#poem23)
 
 
 ### Sept 26, 2025 - Lovely morning for a walk
