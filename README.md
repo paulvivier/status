@@ -1,9 +1,11 @@
 # paul vivier
 This is my current work status [URL](https://paulvivier.github.io/status/). [See paintings](http://www.vivier.net/paintings)
 
+### Oct 1, 2025
+
+
 ### Sept 30, 2025
-Hiked up Read Mountain and trying out Gemini AI for DnD
-[Documenting it in Github](https://paulvivier.github.io/DnD/DnD_Campaign_Shattered_Crown_Heist/01_Session_Logs/narrative.html)
+Hiked up [Read Mountain](https://myhikes.org/trails/read-mountain-preserve-hike) and trying out Gemini AI for DnD [Documenting it in Github](https://paulvivier.github.io/DnD/)
 
 ### Sept 29, 2025 - still waiting for the storm
 Did some yardwork. Yardwork = gardenwork. Gardenwork = gym work. People that pay for gym memberships should buy a shovel and a rake. Skip the leaf blower and get a rake.
