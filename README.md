@@ -2,7 +2,7 @@
 This is my current work status [URL](https://paulvivier.github.io/status/). [See paintings](http://www.vivier.net/paintings)
 
 ### Oct 1, 2025
-
+Fix some issues with my website and aws access. Finish silhouette of Miss Martha. Start color of Miss Ella Sue. Prepare greenhouse for cold snap. 
 
 ### Sept 30, 2025
 Hiked up [Read Mountain](https://myhikes.org/trails/read-mountain-preserve-hike) and trying out Gemini AI for DnD [Documenting it in Github](https://paulvivier.github.io/DnD/)
