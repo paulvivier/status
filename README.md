@@ -1,8 +1,11 @@
 # paul vivier
 This is my current work status [URL](https://paulvivier.github.io/status/). [See paintings](http://www.vivier.net/paintings)
 
+### Oct 2, 2025 - Fall is on its way
+It got down to 50 degrees last night, the time has come to close up the larger holes in the greenhouse. Color started on Miss Ella Sue shrimp boat, might add some more today. Also pasted up a layer of receipts to "Italian Coffee" multi-media collage/drawing. May glue them down today. But first, on to the greenhouse!
+
 ### Oct 1, 2025
-Fix some issues with my website and aws access. Finish silhouette of Miss Martha. Start color of Miss Ella Sue. Prepare greenhouse for cold snap. 
+Fix some issues with my website and aws access. Finish silhouette of Miss Martha. Start color of Miss Ella Sue. Prepare greenhouse for cold snap.
 
 ### Sept 30, 2025
 Hiked up [Read Mountain](https://myhikes.org/trails/read-mountain-preserve-hike) and trying out Gemini AI for DnD [Documenting it in Github](https://paulvivier.github.io/DnD/)
