@@ -1,6 +1,9 @@
 # paul vivier
 This is my current work status [URL](https://paulvivier.github.io/status/). [See paintings](http://www.vivier.net/paintings)
 
+### Oct 3, 2025 - Start your day with a walk
+After my poor performance on the Read Mountain hike (1000 ft?) I decided that I needed to hike more. So, I walked up Mill Mountain from the Yellowstone side today. Good incline in the beginning. Paintings varnished, but still needs some touchup. Working on refinishing furniture today. 
+
 ### Oct 2, 2025 - Fall is on its way
 It got down to 50 degrees last night, the time has come to close up the larger holes in the greenhouse. Color started on Miss Ella Sue shrimp boat, might add some more today. Also pasted up a layer of receipts to "Italian Coffee" multi-media collage/drawing. May glue them down today. But first, on to the greenhouse!
 
