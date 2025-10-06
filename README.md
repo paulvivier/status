@@ -1,11 +1,14 @@
 # paul vivier
 This is my current work status [URL](https://paulvivier.github.io/status/). [See paintings](http://www.vivier.net/paintings)
 
+### Oct 6, 2025 - Race to Finish furniture
+New request in: Finish refinishing the bar. Prioritize. Installed weather trim in greenhouse on 8 windows. Better progress. 
+
 ### Oct 5, 2025 - PJs Birthday
 Ripped a bunch of trim strips but only managed to seal up two and a half windows. Also managed to ram my head into an open window giving me a perfect cut right in the middle of my forehead. Old guy scar. Back at it today. Also unvarnished large shrimp boat. Now need to varnish so I can get framed Mon or Tues.
 
 ### Oct 4, 2025 - Sealing cracks
-Finished yet another iteration of my coffee cup on Italian bags, adding acrylic transfers of receipts. The greenhouse was able to maintain a temp of about 60 degrees, even though I set it for 70. Time to seal up the cracks around ... everything. Need to revarnish large boat painting, I accidentally touched it while still wet and can't fix, so I have to remove and add again. 
+Finished yet another iteration of my coffee cup on Italian bags, adding acrylic transfers of receipts. The greenhouse was able to maintain a temp of about 60 degrees, even though I set it for 70. Time to seal up the cracks around ... everything. Need to revarnish large boat painting, I accidentally touched it while still wet and can't fix, so I have to remove and add again.
 
 ### Oct 3, 2025 - Start your day with a walk
 After my poor performance on the Read Mountain hike (1000 ft?) I decided that I needed to hike more. So, I walked up Mill Mountain from the Yellowstone side today. Good incline in the beginning. Paintings varnished, but still needs some touchup. Working on refinishing furniture today.
