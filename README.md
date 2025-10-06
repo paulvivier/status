@@ -4,6 +4,9 @@ This is my current work status [URL](https://paulvivier.github.io/status/). [See
 ### Oct 6, 2025 - Race to Finish furniture
 New request in: Finish refinishing the bar. Prioritize. Installed weather trim in greenhouse on 8 windows. Better progress. 
 
+humanity has perfected the exploitation of the earths resources. now we are fine timing the exploration of humans, by making a profit from our attention. advertising is merely corporate propaganda.
+
+
 ### Oct 5, 2025 - PJs Birthday
 Ripped a bunch of trim strips but only managed to seal up two and a half windows. Also managed to ram my head into an open window giving me a perfect cut right in the middle of my forehead. Old guy scar. Back at it today. Also unvarnished large shrimp boat. Now need to varnish so I can get framed Mon or Tues.
 
