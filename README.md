@@ -4,7 +4,7 @@ This is my current work status [URL](https://paulvivier.github.io/status/). [See
 ### Oct 6, 2025 - Race to Finish furniture
 New request in: Finish refinishing the bar. Prioritize. Installed weather trim in greenhouse on 8 windows. Better progress. 
 
-humanity has perfected the exploitation of the earths resources. now we are fine timing the exploration of humans, by making a profit from our attention. advertising is merely corporate propaganda.
+humanity has perfected the exploitation of the earths resources. now we are fine tuning the exploitation of humans, by making a profit from our attention. advertising is merely corporate propaganda.
 
 
 ### Oct 5, 2025 - PJs Birthday
