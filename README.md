@@ -1,8 +1,11 @@
 # paul vivier
 This is my current work status [URL](https://paulvivier.github.io/status/). [See paintings](http://www.vivier.net/paintings)
 
+### Oct 7, 2025 - You've got to set them up.
+Met with property manager of Well Fargo Tower and will be painting the views from there soon. Very exciting. Amazing view of everything in downtown Roanoke. Dropped off two paintings to be framed with Lindor. Getting ready to cut some foam insulation in the shape of corrugated roofing with my handy new foam cutter. SO excited about that. There may be a sculpture in the future out of foam (as if there isn't enough plastic residue in this world).
+
 ### Oct 6, 2025 - Race to Finish furniture
-New request in: Finish refinishing the bar. Prioritize. Installed weather trim in greenhouse on 8 windows. Better progress. 
+New request in: Finish refinishing the bar. Prioritize. Installed weather trim in greenhouse on 8 windows. Better progress.
 
 humanity has perfected the exploitation of the earths resources. now we are fine tuning the exploitation of humans, by making a profit from our attention. advertising is merely corporate propaganda.
 
