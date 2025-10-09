@@ -1,8 +1,11 @@
 # paul vivier
 This is my current work status [URL](https://paulvivier.github.io/status/). [See paintings](http://www.vivier.net/paintings)
 
+### Oct 9, 2025 - Nature prioritizes itself
+Mowing the grass and putting plastic up in The Greenhouse today. It got down to 50F inside the greenhouse with an outside temp of 40F. Not very insulated. 
+
 ### Oct 8, 2025 - Finish the refinish
-wipe tung oil off before it has a chance to dry. use clean rags.
+Buffet table refinish. Remember: wipe tung oil off before it has a chance to dry. use clean rags. Need to paint ...
 
 ### Oct 7, 2025 - You've got to set them up.
 Met with property manager of Well Fargo Tower and will be painting the views from there soon. Very exciting. Amazing view of everything in downtown Roanoke. Dropped off two paintings to be framed with Lindor. Getting ready to cut some foam insulation in the shape of corrugated roofing with my handy new foam cutter. SO excited about that. There may be a sculpture in the future out of foam (as if there isn't enough plastic residue in this world).
