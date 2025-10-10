@@ -1,8 +1,14 @@
 # paul vivier
-This is my current work status [URL](https://paulvivier.github.io/status/). [See paintings](http://www.vivier.net/paintings)
+This is my current work status
+[Status](https://paulvivier.github.io/status/)
+[Paintings](http://www.vivier.net/paintings)
+[Contact](http://www.vivier.net/contact)
+
+### Oct 10, 2025 - The uncertainty of Nature
+Plastic is up in the greenhouse in places, but the thermostat is busted now. Luckily the temp didn't get too low last night (47F). One of the challenges with building a greenhouse is the live testing. It's hard to simulate the various temperature and moisture conditions so you just have to pay attention and respond. I like this, though. I feel like it puts me more in touch with nature. I need to paint today. Really need to paint.
 
 ### Oct 9, 2025 - Nature prioritizes itself
-Mowing the grass and putting plastic up in The Greenhouse today. It got down to 50F inside the greenhouse with an outside temp of 40F. Not very insulated. 
+Mowing the grass and putting plastic up in The Greenhouse today. It got down to 50F inside the greenhouse with an outside temp of 40F. Not very insulated.
 
 ### Oct 8, 2025 - Finish the refinish
 Buffet table refinish. Remember: wipe tung oil off before it has a chance to dry. use clean rags. Need to paint ...
