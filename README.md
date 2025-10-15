@@ -4,11 +4,14 @@ This is my current work status
 [ [Paintings](http://www.vivier.net/paintings) ] -
 [ [Contact](http://www.vivier.net/contact) ]
 
+### Oct 14, 2025 - Recuperate
+Kind of wore me out a bit to stand all day and draw. Was planning on doing a second day but after the first, I think I'm good. I took a lot of pictures and got a really good lay-of-the-land. Today, I'll be studying the picture and the charcoal sketches that I made. Gardened a little, split up a (20lb?) ball of Fern Peonies and replanted. 
+
 ### Oct 13, 2025 - Happy Bank Holiday
 Miss Ella Sue shrimp boat gets some attention today. Preparing my supplies for tomorrow's on-site visit.
 
 ### Oct 12, 2025 - Yard Rules
-Cleaned up some garden beds in preparation for winter today. Yep, that's it. And I'm tired. 
+Cleaned up some garden beds in preparation for winter today. Yep, that's it. And I'm tired.
 
 ### Oct 11, 2025 - Saturday? Everyday is a workday as an artist
 Another day to work and observe. I'm starting the day making some labels for my new/old hobby: Rockhounding (aka rock collecting). I'll write an essay about that at some point. Greenhouse is holding steady at 15 degrees above outside temp, which is good enough for October when it gets down to 45F. It buys me some time. Painting Miss Ella Sue shrimp boat today. I'm also gathering supplies for my visit to the Wells Fargo Tower on Tuesday and Wednesday of next week. I'm trying to figure out how to go about painting an extremely complex, highly detailed, and vast landscape. I may have to plan on doing a few of these.
