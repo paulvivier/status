@@ -5,7 +5,7 @@ This is my current work status
 [ [Contact](http://www.vivier.net/contact) ]
 
 ### Oct 14, 2025 - Recuperate
-Kind of wore me out a bit to stand all day and draw. Was planning on doing a second day but after the first, I think I'm good. I took a lot of pictures and got a really good lay-of-the-land. Today, I'll be studying the picture and the charcoal sketches that I made. Gardened a little, split up a (20lb?) ball of Fern Peonies and replanted. 
+Kind of wore me out a bit to stand all day and draw at the tower. Was planning on doing a second day but after the first, I think I'm good. I took a lot of pictures and got a really good lay-of-the-land. Today, I'll be studying the picture and the charcoal sketches that I made. Gardened a little, split up a (20lb?) ball of Fern Peonies and replanted.
 
 ### Oct 13, 2025 - Happy Bank Holiday
 Miss Ella Sue shrimp boat gets some attention today. Preparing my supplies for tomorrow's on-site visit.
