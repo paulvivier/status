@@ -4,6 +4,9 @@ This is my current work status
 [ [Paintings](http://www.vivier.net/paintings) ] -
 [ [Contact](http://www.vivier.net/contact) ]
 
+### Oct 15, 2025 - back to creating
+i feel like its safe to say that Liberty could probably offer quite a bit of savings if it just stopped advertising for a little while. maybe its just my algorithm but they prettymuch sponsor my entire internet browsing and watching.
+
 ### Oct 14, 2025 - Recuperate
 Kind of wore me out a bit to stand all day and draw at the tower. Was planning on doing a second day but after the first, I think I'm good. I took a lot of pictures and got a really good lay-of-the-land. Today, I'll be studying the picture and the charcoal sketches that I made. Gardened a little, split up a (20lb?) ball of Fern Peonies and replanted.
 
