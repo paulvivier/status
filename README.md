@@ -4,6 +4,9 @@ This is my current work status
 [ [Paintings](http://www.vivier.net/paintings) ] -
 [ [Contact](http://www.vivier.net/contact) ]
 
+### Oct 17, 2025 - Misc
+Visiting Black Dog Salvage to look at potential display locations to sell my art. More final touches on Miss Ella Sue. Install transfer pump in greenhouse to get irrigation minimally functional.
+
 ### Oct 15, 2025 - back to creating
 i feel like its safe to say that Liberty could probably offer quite a bit of savings if it just stopped advertising for a little while. maybe its just my algorithm but they prettymuch sponsor my entire internet browsing and watching.
 
