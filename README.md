@@ -4,6 +4,9 @@ This is my current work status
 [ [Paintings](http://www.vivier.net/paintings) ] -
 [ [Contact](http://www.vivier.net/contact) ]
 
+### Oct 18, 2025 - Finish line approaches
+The end of a painting is its own feeling, the completion brings a flurry of emotions and thought that can sometimes culminate in a "well fuck it, I'm done" feeling. Often at the end, I keep looking at the painting, leaving, coming back, fix something, find other things, leave, come back and repeat over a period of hours or days. Each time I come back, I look for things that catch my eye first, and for all of the wrong reasons. Eventually, the only things that catch my eye are the lovely parts. When that prevails, I'm done. It's really no different than any other creation process except the "does it work as expected" part is subjective and ephemeral. Getting close. The amount of paint used gets smaller as well as the brushes.  
+
 ### Oct 17, 2025 - Misc
 Visiting Black Dog Salvage to look at potential display locations to sell my art. More final touches on Miss Ella Sue. Install transfer pump in greenhouse to get irrigation minimally functional.
 
