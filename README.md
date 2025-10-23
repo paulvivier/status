@@ -4,9 +4,11 @@ This is my current work status
 [ [Paintings](http://www.vivier.net/paintings) ] -
 [ [Contact](http://www.vivier.net/contact) ]
 
+### Oct 23, 2025 - All the things
+Changing headlights on Taco, start underpainting for Apalachicola Harbor, make enamel covered labels for rock collection, clean and fold plastic tarp, bathe wolf (sigh ... maybe)
 
 ### Oct 22, 2025 - Landscaping and New Paintings
-I took a break from painting and worked in the yard the past couple of days. Also spent time installing a few new luxuries in the greenhouse including a thermostat and a pump for water. I'm getting ready to start on my last fishing boat painting from this series of Apalachicola. 
+I took a break from painting and worked in the yard the past couple of days. Also spent time installing a few new luxuries in the greenhouse including a thermostat and a pump for water. I'm getting ready to start on my last fishing boat painting from this series of Apalachicola.
 
 ### Oct 18, 2025 - Finish line approaches
 The end of a painting is its own feeling, the completion brings a flurry of emotions and thought that can sometimes culminate in a "well fuck it, I'm done" feeling. Often at the end, I keep looking at the painting, leaving, coming back, fix something, find other things, leave, come back and repeat over a period of hours or days. Each time I come back, I look for things that catch my eye first, and for all of the wrong reasons. Eventually, the only things that catch my eye are the lovely parts. When that prevails, I'm done. It's really no different than any other creation process except the "does it work as expected" part is subjective and ephemeral. Getting close. The amount of paint used gets smaller as well as the brushes.  
