@@ -4,6 +4,12 @@ This is my current work status
 [ [Paintings](http://www.vivier.net/paintings) ] -
 [ [Contact](http://www.vivier.net/contact) ]
 
+### Oct 25, 2025 - Paint away the confusion
+The four boats of the apocalypse is underway. Painting on gessoed board. Trying to pretend like I only have the light for  little time.
+
+### Oct 24, 2025 - Brain days
+I got to a few things yesterday but still need to start underpainting and bathe Wolf. I did review frames for paintings and gave them the go-ahead.
+
 ### Oct 23, 2025 - All the things
 Changing headlights on Taco, start underpainting for Apalachicola Harbor, make enamel covered labels for rock collection, clean and fold plastic tarp, bathe wolf (sigh ... maybe)
 
