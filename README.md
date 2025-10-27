@@ -4,6 +4,15 @@ This is my current work status
 [ [Paintings](http://www.vivier.net/paintings) ] -
 [ [Contact](http://www.vivier.net/contact) ]
 
+### Oct 27, 2025 - Monday is just a day
+What's the difference between a painting and a photograph? While its possible for a photograph to take a lot of time and effort to make, it generally comes across as something that was caught in an instant. A painting, however, usually shows that someone spent time with the image, possibly a lot of time. Paintings that don't, are sometimes criticized by the public as "well I could do that" or that a child could. But does a painting of a photograph convey the best of both, or the worst of both? Or does it slip somewhere in the middle, eluding the faults of both? A painting from a photograph ... any painter can do. A painting that looks like a photograph is harder, but does it bring in the emotional impact that the image had on an artist, or does it depend on the photograph to get it right first? 
+
+Washed The Beast today, he's getting more and more comfortable with the process of a bath. We have our routine. I am continuing to paint my four boats, wondering if there is any emotion that I am conveying in the image.
+
+
+### Oct 26, 2025 - Second round, four boats
+Tried a different approach on these, painting on a board.
+
 ### Oct 25, 2025 - Paint away the confusion
 The four boats of the apocalypse is underway. Painting on gessoed board. Trying to pretend like I only have the light for  little time.
 
