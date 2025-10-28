@@ -4,6 +4,11 @@ This is my current work status
 [ [Paintings](http://www.vivier.net/paintings) ] -
 [ [Contact](http://www.vivier.net/contact) ]
 
+### Oct 28, 2025 - Next up ... what?
+Entertaining some tower photos.
+Here's your interesting video for the day: [Extreme Beachcombing](https://youtu.be/rt6wn74gmEY?si=ztHrWgmu5ykCJCdj)
+
+
 ### Oct 27, 2025 - Monday is just a day
 What's the difference between a painting and a photograph? While its possible for a photograph to take a lot of time and effort to make, it generally comes across as an image that was caught in an instant. A painting, however, usually shows that someone spent time with the image, possibly a lot of time. Paintings that don't take time, are sometimes criticized by the public as "well I could do that" or that a child, whether it merits that critic or not.
 
