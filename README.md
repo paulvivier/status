@@ -4,6 +4,10 @@ This is my current work status
 [ [Paintings](http://www.vivier.net/paintings) ] -
 [ [Contact](http://www.vivier.net/contact) ]
 
+### Oct 29, 2025 - What is my motivation
+The motivations are in the medium, it seems. Do I need to go deeper than that, or is it simply as shallow as the medium that I'm using? Paper thin. Its only a wafer thin. Spending some time with my sketches from the tower today.
+
+
 ### Oct 28, 2025 - Next up ... what?
 Entertaining some tower photos.
 Here's your interesting video for the day: [Extreme Beachcombing](https://youtu.be/rt6wn74gmEY?si=ztHrWgmu5ykCJCdj)
