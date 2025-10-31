@@ -4,6 +4,9 @@ This is my current work status
 [ [Paintings](http://www.vivier.net/paintings) ] -
 [ [Contact](http://www.vivier.net/contact) ]
 
+### Oct 31, 2025 - Hallows Eve
+Watch out for Jason. Finished an oil pastel drawing over one o the charcoal drawings from the tower. This one had the shadow of the tower in it, which I kind of like. I'm working with a 24 colors set which is doesn't quite have the colors that I prefer, but these work. The final image almost has a polaroid quality to it, with halos of non-related colors. I'm declaring a success and moving on to the next. Running out of white though, so I've place an order for some since there is no real art supply store in Roanoke. Grumble, grumble.
+
 ### Oct 29, 2025 - What is my motivation
 The motivations are in the medium, it seems. Do I need to go deeper than that, or is it simply as shallow as the medium that I'm using? Paper thin. Its only a wafer thin. Spending some time with my sketches from the tower today.
 
