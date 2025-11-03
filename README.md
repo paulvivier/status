@@ -4,6 +4,16 @@ This is my current work status
 [ [Paintings](http://www.vivier.net/paintings) ] -
 [ [Contact](http://www.vivier.net/contact) ]
 
+### Nov 3, 2025 - Tip of the day
+If you're an artist that has trouble getting your head around how to do a landscape, I have this tip: Use a larger brush or stick of something to make your first marks, and start with shapes. Start with the largest shapes that you can see, large enough to be compositional elements. When you first start a landscape, you can often get lost in the details "how do I show all of those leaves", or "how can I show all those wheels on all of those cars that there are so many of". That is the last thing that you should be thinking about. When beginning, think in big shapes, simplified colors, or even just simplified values. As you proceed, over time, you can add colors and details, sometimes never including them at all. You're not a camera, you don't have to capture everything.
+
+
+### Nov 1, 2025 - Day of the Dead
+Art supplies are arriving early. Amazon has squeezed waste out of the supply chain again and thus making any sales at a small scale near impossible.
+
+Downtown oil pastel underway.
+
+
 ### Oct 31, 2025 - Hallows Eve
 Watch out for Jason. Finished an oil pastel drawing over one o the charcoal drawings from the tower. This one had the shadow of the tower in it, which I kind of like. I'm working with a 24 colors set which is doesn't quite have the colors that I prefer, but these work. The final image almost has a polaroid quality to it, with halos of non-related colors. I'm declaring a success and moving on to the next. Running out of white though, so I've place an order for some since there is no real art supply store in Roanoke. Grumble, grumble.
 
