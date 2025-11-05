@@ -4,6 +4,14 @@ This is my current work status
 [ [Paintings](http://www.vivier.net/paintings) ] -
 [ [Contact](http://www.vivier.net/contact) ]
 
+### Nov 5, 2025 - Be more intentional with your phone
+I have a good number of Dis-cards now. Still more tape left from the last drawing, but I need to get back to drawing and finish this last (?) view from the tower. Even though I didn't do a fourth charcoal on site, I may do a fourth from a photo, so that I have a "complete set" of views from all directions. 
+
+
+### Nov 4, 2025 - Election day
+If I were Dictator, I would make leaf blowers illegal in cities. Everyone would be required to use a rake. Finished pastel of the bank building turned Carilion Building. Working on some Dis-Cards this morning with the remnants of oil pastels. Need to start the final downtown pastel drawing.  
+
+
 ### Nov 3, 2025 - Tip of the day
 If you're an artist that has trouble getting your head around how to do a landscape, I have this tip: Use a larger brush or stick of something to make your first marks, and start with shapes. Start with the largest shapes that you can see, large enough to be compositional elements. When you first start a landscape, you can often get lost in the details "how do I show all of those leaves", or "how can I show all those wheels on all of those cars that there are so many of". That is the last thing that you should be thinking about. When beginning, think in big shapes, simplified colors, or even just simplified values. As you proceed, over time, you can add colors and details, sometimes never including them at all. You're not a camera, you don't have to capture everything.
 
