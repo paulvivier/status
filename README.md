@@ -4,8 +4,11 @@ This is my current work status
 [ [Paintings](http://www.vivier.net/paintings) ] -
 [ [Contact](http://www.vivier.net/contact) ]
 
+## Nov 9, 2025 - Dive in
+Creating a 4 of 4 sketch for the Tower View. Process is different, but maybe it won't change drastically.
+
 ### Nov 7, 2025 - keep on swimming
-Do the process. Working on number three oil pastel again today. Greenhouse got down to 49 F, but the kerosene heater also arrived. 
+Do the process. Working on number three oil pastel again today. Greenhouse got down to 49 F, but the kerosene heater also arrived.
 
 ### Nov 5, 2025 - Be more intentional with your phone
 I have a good number of Dis-cards now. Still more tape left from the last drawing, but I need to get back to drawing and finish this last (?) view from the tower. Even though I didn't do a fourth charcoal on site, I may do a fourth from a photo, so that I have a "complete set" of views from all directions.
