@@ -4,6 +4,9 @@ This is my current work status
 [ [Paintings](http://www.vivier.net/paintings) ] -
 [ [Contact](http://www.vivier.net/contact) ]
 
+## Nov 10, 2025 - Quieting the voice
+Carl Jung believed art is a dialogue between the conscious ego and the unconscious self. The ego seeks ownership and control of the product while they are also channeling unconscious material into form. This sounds like a bunch of psycho-babble until you experience it. My entire art-making effort is listening to my ego compliment me on various decisions, or bringing faded memories of the past to steer me in a compliment only direction. Meanwhile I'm coming up with ideas on how to resolve visual problems to make the picture work, which is not my ego at all, and could possibly end up as a failure (to my ego). There is a noisy back-and-forth conversation going on throughout the process, until ... I reach "flow state". In this state, I'm just making, creating, solving problems, switching areas of focus, improving them, taking them down when they don't work. When not in flow state, there is a constant barrage of ego-based criticism and compliments that threaten to stop the entire process completely. Its fascinating to experience it and understand it. 
+
 ## Nov 9, 2025 - Dive in
 Creating a 4 of 4 sketch for the Tower View. Process is different, but maybe it won't change drastically.
 
