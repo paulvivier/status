@@ -4,8 +4,18 @@ This is my current work status
 [ [Paintings](http://www.vivier.net/paintings) ] -
 [ [Contact](http://www.vivier.net/contact) ]
 
+## Nov 15, 2025 - Saturday on a dayless week
+Lately, a Saturday means, there will be more people in parks than normal. It's a good day to stay away. I'll do some reading and taking some pictures today. I have a few thoughts of places to go. 
+
+## Nov 14, 2025 - Delivery
+Delivered a purchase of the two shrimp boats today. Feels good to make a sale.
+Took some pictures of Parkway bridges. I have an idea ...
+
+## Nov 13, 2025 - Upside Down
+No work on my easel. Feels wrong
+
 ## Nov 11, 2025 - Tuscan Stew
-In rememberance of my trip to Italy last year, I'm going to make a Tuscan beef stew today. Kerosene heater did the trick last night, pushing my greenhouse to 25 degrees over outside temp, which isn't great, but saved my plants. It was 28 F last night. Making my way through Sally Mann's new book. I love her writing voice, very comforting with her Appalachian euphemism and idioms. Taubman pastel is closing in to be done. I don't think I'm going to make it to another 4. This one feels like it's more tedium and less discovery. 
+In rememberance of my trip to Italy last year, I'm going to make a Tuscan beef stew today. Kerosene heater did the trick last night, pushing my greenhouse to 25 degrees over outside temp, which isn't great, but saved my plants. It was 28 F last night. Making my way through Sally Mann's new book. I love her writing voice, very comforting with her Appalachian euphemism and idioms. Taubman pastel is closing in to be done. I don't think I'm going to make it to another 4. This one feels like it's more tedium and less discovery.
 
 
 
