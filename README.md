@@ -4,8 +4,12 @@ This is my current work status
 [ [Paintings](http://www.vivier.net/paintings) ] -
 [ [Contact](http://www.vivier.net/contact) ]
 
+## Nov 16, 2025 - Success breeds delusions of failure
+Pictures look good. I'm setting my digital camera to take monochrome by default, allow only manual changes to settings, and baking it in by saving in JPG instead of RAW. Adding a new constraint affects how I use the images by creating pictures that don't fall into my regular process of painting. Constraints breed creativity. 
+
+
 ## Nov 15, 2025 - Saturday on a dayless week
-Lately, a Saturday means, there will be more people in parks than normal. It's a good day to stay away. I'll do some reading and taking some pictures today. I have a few thoughts of places to go. 
+Lately, a Saturday means, there will be more people in parks than normal. It's a good day to stay away. I'll do some reading and taking some pictures today. I have a few thoughts of places to go.
 
 ## Nov 14, 2025 - Delivery
 Delivered a purchase of the two shrimp boats today. Feels good to make a sale.
