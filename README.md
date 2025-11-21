@@ -4,8 +4,15 @@ This is my current work status
 [ [Paintings](http://www.vivier.net/paintings) ] -
 [ [Contact](http://www.vivier.net/contact) ]
 
+## Nov 20, 2025 - New thing
+I started a new project. I'm setting my camera to full B&W, no RAW takebacks, everything is baked in when I shoot it, just like the old days. Manual settings for shutter speed, f-stop, ISO and focus. Its incredibly fun and reminds me so much of taking pictures in the 'old days'. I've started documenting some places around town. Its anonymous now, so no announcement yet, but maybe some day ... 
+
+
+## Nov 18, 2025 - Clean up
+Today is an organization day. Cleaning up my mess, helps to remind me of projects that I wanted to do.
+
 ## Nov 17, 2025 - More! Give me More!
-I'm starting a project around photography. Not ready to advertise it's name, but I'm on Instagram now. The project will be focusing on abandoned properties in Roanoke. 
+I'm starting a project around photography. Not ready to advertise it's name, but I'm on Instagram now. The project will be focusing on abandoned properties in Roanoke.
 
 
 ## Nov 16, 2025 - Success breeds delusions of failure
