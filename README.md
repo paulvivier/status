@@ -4,8 +4,12 @@ This is my current work status
 [ [Paintings](http://www.vivier.net/paintings) ] -
 [ [Contact](http://www.vivier.net/contact) ]
 
+## Dec 1, 2025 - Lapse
+Don't want to paint anything. Taking lots of pictures of abandoned buildings in Roanoke. It seems to fill the mind. Scanning old slides that my Dad had at the library today.
+
+
 ## Nov 20, 2025 - New thing
-I started a new project. I'm setting my camera to full B&W, no RAW takebacks, everything is baked in when I shoot it, just like the old days. Manual settings for shutter speed, f-stop, ISO and focus. Its incredibly fun and reminds me so much of taking pictures in the 'old days'. I've started documenting some places around town. Its anonymous now, so no announcement yet, but maybe some day ... 
+I started a new project. I'm setting my camera to full B&W, no RAW takebacks, everything is baked in when I shoot it, just like the old days. Manual settings for shutter speed, f-stop, ISO and focus. Its incredibly fun and reminds me so much of taking pictures in the 'old days'. I've started documenting some places around town. Its anonymous now, so no announcement yet, but maybe some day ...
 
 
 ## Nov 18, 2025 - Clean up
