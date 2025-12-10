@@ -4,6 +4,10 @@ This is my current work status
 [ [Paintings](http://www.vivier.net/paintings) ] -
 [ [Contact](http://www.vivier.net/contact) ]
 
+## Dec 10, 2025 - Discards and Reuse prints
+Working on two series right now. The first is "Discards", which is a series of cards that are solely using the left-over materials from larger projects. I have Discards from the Tower View oil pastel series, and the Port St. Joe paintings. The second series, "Reuse" is still in progress. It combines prints made with parts from broken electronics and paintings of imagery originating from images that are "owned" by someone else. The objects chosen for the imagery are characters which embody the trickster archetype.
+
+
 ## Dec 1, 2025 - Lapse
 Don't want to paint anything. Taking lots of pictures of abandoned buildings in Roanoke. It seems to fill the mind. Scanning old slides that my Dad had at the library today.
 
