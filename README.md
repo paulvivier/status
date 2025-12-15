@@ -4,8 +4,16 @@ This is my current work status
 [ [Paintings](http://www.vivier.net/paintings) ] -
 [ [Contact](http://www.vivier.net/contact) ]
 
+## Dec 15, 2025 -
+Fine tuning the greenhouse heating system after it dropping to 13ºF last night. It managed to stay above 55ºF with only two of the three systems running: small Kerosene heater and a diesel heater. Today, picking up some unsold artwork at Black Dog and continuing my Reuse series of printing from printing impressions in slabs of plastalina.
+
+Reminder: Write article on Yard sale rules and how it incorporates community and gifting concepts.
+
+Why do a series of pieces? _____
+The thing that is interesting about a series is its gestalt. A series a form of replication (or vice versa?). In a series, there is a common thread between each of the items, some common constant and variable. When taken in at a higher level though, they can take on another form. The form can be unexpected and take on a separate meaning. Like chains of proteins, they may form completely different, and yet similar things.
+
 ## Dec 14, 2025 - Updated web site.
-I've started organizing artwork on my website as they occur in a series. I think that's the best way to describe my work. One series may not look like another series, but everything in a series should have some cohesive whole. I think it makes my work more digestible. Wouldn't want to make people sick. 
+I've started organizing artwork on my website as they occur in a series. I think that's the best way to describe my work. One series may not look like another series, but everything in a series should have some cohesive whole. I think it makes my work more digestible. Wouldn't want to make people sick.
 
 ## Dec 10, 2025 - Discards and Reuse prints
 Working on two series right now. The first is "Discards", which is a series of cards that are solely using the left-over materials from larger projects. I have Discards from the Tower View oil pastel series, and the Port St. Joe paintings. The second series, "Reuse" is still in progress. It combines prints made with parts from broken electronics and paintings of imagery originating from images that are "owned" by someone else. The objects chosen for the imagery are characters which embody the trickster archetype.
