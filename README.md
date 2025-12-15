@@ -5,7 +5,7 @@ This is my current work status
 [ [Contact](http://www.vivier.net/contact) ]
 
 ## Dec 15, 2025 -
-Fine tuning the greenhouse heating system after it dropping to 13ºF last night. It managed to stay above 55ºF with only two of the three systems running: small Kerosene heater and a diesel heater. Today, picking up some unsold artwork at Black Dog and continuing my Reuse series of printing from printing impressions in slabs of plastalina.
+Fine tuning the greenhouse heating system after it dropped to 13ºF last night. It managed to stay above 55ºF with only two of the three systems running: small Kerosene heater and a diesel heater. Today, picking up some unsold artwork at Black Dog and continuing my Reuse series of printing from printing impressions in slabs of plastalina.
 
 Reminder: Write article on Yard sale rules and how it incorporates community and gifting concepts.
 
