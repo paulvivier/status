@@ -9,7 +9,7 @@ Fine tuning the greenhouse heating system after it dropped to 13ºF last night. 
 
 Reminder: Write article on Yard sale rules and how it incorporates community and gifting concepts.
 
-Why do a series of pieces? The thing that is interesting about a series is its gestalt. A series is a form of replication (or vice versa?). In a series, there is a common thread between each of the items, some common constant and variable. When taken in at a higher level though, they can take on another form. The form can be unexpected and take on a separate meaning. Like chains of proteins, they may form completely different, and yet similar things.
+Why do a series of pieces? The thing that is interesting about a series is its gestalt. A series is a form of replication (or vice versa?). In a series, there is a common thread between each of the items. Each shares in common both constants and variables. When taken in at a higher level though, they can take on different and unexpected form, the gestalt. This form can take on a separate meaning from the individual pieces. Like chains of proteins molecules, they may form completely different, and yet similar things.
 
 ## Dec 14, 2025 - Updated web site.
 I've started organizing artwork on my website as they occur in a series. I think that's the best way to describe my work. One series may not look like another series, but everything in a series should have some cohesive whole. I think it makes my work more digestible. Wouldn't want to make people sick.
