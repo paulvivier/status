@@ -4,6 +4,9 @@ This is my current work status
 [ [Paintings](http://www.vivier.net/paintings) ] -
 [ [Contact](http://www.vivier.net/contact) ]
 
+## Dec 14, 2025 - Updated web site.
+I've started organizing artwork on my website as they occur in a series. I think that's the best way to describe my work. One series may not look like another series, but everything in a series should have some cohesive whole. I think it makes my work more digestible. Wouldn't want to make people sick. 
+
 ## Dec 10, 2025 - Discards and Reuse prints
 Working on two series right now. The first is "Discards", which is a series of cards that are solely using the left-over materials from larger projects. I have Discards from the Tower View oil pastel series, and the Port St. Joe paintings. The second series, "Reuse" is still in progress. It combines prints made with parts from broken electronics and paintings of imagery originating from images that are "owned" by someone else. The objects chosen for the imagery are characters which embody the trickster archetype.
 
