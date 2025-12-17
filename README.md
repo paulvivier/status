@@ -4,7 +4,10 @@ This is my current work status
 [ [Paintings](http://www.vivier.net/paintings) ] -
 [ [Contact](http://www.vivier.net/contact) ]
 
-## Dec 15, 2025 -
+## Dec 17th, 2025 - Fiddlefuck
+I  have many new art supplies that I picked up at the New River Arts Arts and Fiber shop in Blacksburg. Stella and Jessica rule. I'm working with a few new supplies to see how they work with some of the things I'm fiddlefucking around with. That's my new term for experimenting with art. 
+
+## Dec 15, 2025
 Fine tuning the greenhouse heating system after it dropped to 13ºF last night. It managed to stay above 55ºF inside the greenhouse with only two of the three systems running: small Kerosene heater and a diesel heater. Today, picking up some unsold artwork at Black Dog and continuing my Reuse series of printing from impressions in slabs of plastalina.
 
 Reminder: Write article on Yard sale rules and how it incorporates community and gifting concepts.
