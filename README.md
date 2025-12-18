@@ -4,6 +4,9 @@ This is my current work status
 [ [Paintings](http://www.vivier.net/paintings) ] -
 [ [Contact](http://www.vivier.net/contact) ]
 
+## dec 18, 2025 - Dore
+Copying Dore images and experimenting with combinations of ink and paint.
+
 ## Dec 17th, 2025 - Fiddlefuck
 I  have many new art supplies that I picked up at the New River Arts Arts and Fiber shop in Blacksburg. Stella and Jessica rule. I'm working with a few new supplies to see how they work with some of the things I'm fiddlefucking around with. That's my new term for experimenting with art. 
 
