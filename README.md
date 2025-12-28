@@ -4,6 +4,9 @@ This is my current work status
 [ [Paintings](http://www.vivier.net/paintings) ] -
 [ [Contact](http://www.vivier.net/contact) ]
 
+## Dec 28, 2025 - Reuse series
+Trickster for the day: Elliot Alderson
+
 ## Dec 27, 2025 - Aftermath
 Back in the saddle. Working on a pencil pixel image based on a picture of myself as a child.
 
