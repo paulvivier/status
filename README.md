@@ -4,6 +4,10 @@ This is my current work status
 [ [Paintings](http://www.vivier.net/paintings) ] -
 [ [Contact](http://www.vivier.net/contact) ]
 
+## Jan 2, 2026 - Happy turn of the calendar
+Working on some mosaic pixel portraits in pencil.
+
+
 ## Dec 28, 2025 - Reuse series
 Trickster for the day: Elliot Alderson
 
