@@ -4,9 +4,11 @@ This is my current work status
 [ [Paintings](http://www.vivier.net/paintings) ] -
 [ [Contact](http://www.vivier.net/contact) ]
 
+## Jan 6, 2026 - staring into the abyss
+Working on self portraits from childhood photographs. Working through techniques using casein. Finally got the tube of white. 
+
 ## Jan 2, 2026 - Happy turn of the calendar
 Working on some mosaic pixel portraits in pencil.
-
 
 ## Dec 28, 2025 - Reuse series
 Trickster for the day: Elliot Alderson
