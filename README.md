@@ -4,8 +4,12 @@ This is my current work status
 [ [Paintings](http://www.vivier.net/paintings) ] -
 [ [Contact](http://www.vivier.net/contact) ]
 
+## Jan 8, 2026 - Radio day
+Doing some research on HD radios. Didn't know it included the AM spectrum.
+
+
 ## Jan 7, 2026 - IT Day
-Doing a little housekeeping on the IT side of things today. After spending a long time frustrated with organizing my photos using Piwigo, I'm switching to Immich. It is EXACTLY what you'd expect if you're used to Google photos. The install only took me a few hours (mostly working through permissions). Today, I'm re-organizing a few backup directories to optimize how everything is stored. I have about 42,000 photos that span about 28 years. Once I add my Mom's pictures, I'll probably double that. Whew. Side note, it is SO much easier+better to do this kind of stuff with the help of Claude AI. I can pull off much of this without its help, but when it comes to efficiency, and having the confidence that I'm setting things up "the right" way, it's as good as having a computer science engineer beside me to help me along. It helps to remove barriers that would normally stop me out of fear of really messing things up. 
+Doing a little housekeeping on the IT side of things today. After spending a long time frustrated with organizing my photos using Piwigo, I'm switching to Immich. It is EXACTLY what you'd expect if you're used to Google photos. The install only took me a few hours (mostly working through permissions). Today, I'm re-organizing a few backup directories to optimize how everything is stored. I have about 42,000 photos that span about 28 years. Once I add my Mom's pictures, I'll probably double that. Whew. Side note, it is SO much easier+better to do this kind of stuff with the help of Claude AI. I can pull off much of this without its help, but when it comes to efficiency, and having the confidence that I'm setting things up "the right" way, it's as good as having a computer science engineer beside me to help me along. It helps to remove barriers that would normally stop me out of fear of really messing things up.  
 
 ## Jan 6, 2026 - staring into the abyss
 Working on self portraits from childhood photographs. Working through techniques using casein. Finally got the tube of white.
