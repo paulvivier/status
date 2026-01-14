@@ -4,6 +4,9 @@ This is my current work status
 [ [Paintings](http://www.vivier.net/paintings) ] -
 [ [Contact](http://www.vivier.net/contact) ]
 
+## Jan 14, 2026 - Happy Bday my love
+Abandoned the Claude realistic 3D Model. Results were a joke. It did help me practice my manual github pipeline, which I appreciate. Also have many funny results, which I am printing anyway. Within about 10 minutes of finding and logging into Meshy, I got EXACTLY the results I had hoped for. Now I know. Cleaning up my ASCII art animation program ... for now ... muhahahahahaha. 
+
 ## Jan 13, 2026 - Mapping faces
 I'm working with Claude to build an app that will let me upload a face and create a somewhat realistic 3D model from it. Let's see how far I get.
 
