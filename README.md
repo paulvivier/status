@@ -4,8 +4,11 @@ This is my current work status
 [ [Paintings](http://www.vivier.net/paintings) ] -
 [ [Contact](http://www.vivier.net/contact) ]
 
+## Jan 16, 2026 - Vibe Coding?
+Found out what I'm doing is called "Vibe coding", working with Claude. Interesting how close it feels to being a Product Owner or BSA and working with a developer. We started working on an Image Synthesizer. The halftones that I used to make 3D relief prints reminded me of a waveform when you look at them sideways. So I wondered what it would be like to try and play them. We'll see how far I get with this one. Almost finished printing all of the "realistic" 3D model failures. If there are no failures in Art, then Claude gets a pass and we celebrate all creations.
+
 ## Jan 14, 2026 - Happy Bday my love
-Abandoned the Claude realistic 3D Model. Results were a joke. It did help me practice my manual github pipeline, which I appreciate. Also have many funny results, which I am printing anyway. Within about 10 minutes of finding and logging into Meshy, I got EXACTLY the results I had hoped for. Now I know. Cleaning up my ASCII art animation program ... for now ... muhahahahahaha. 
+Abandoned the Claude realistic 3D Model. Results were a joke. It did help me practice my manual github and docker build pipeline, which I appreciate. Also have many funny results, which I am printing anyway. Within about 10 minutes of finding and logging into Meshy, I got EXACTLY the results I had hoped for. Now I know. Cleaning up my ASCII art animation program ... for now ... muhahahahahaha.
 
 ## Jan 13, 2026 - Mapping faces
 I'm working with Claude to build an app that will let me upload a face and create a somewhat realistic 3D model from it. Let's see how far I get.
