@@ -4,6 +4,12 @@ This is my current work status
 [ [Paintings](http://www.vivier.net/paintings) ] -
 [ [Contact](http://www.vivier.net/contact) ]
 
+## Jan 20, 2026 - Juggling many things
+I'm maxed out my pro session with Claude, refining the Image Synthesizer. Then decided to branch out and have it help me configure Reaktor6 instead of rebuilding a synth interface in a browser. We're going to connect my Image Music Processor to Reaktor, and then development will focus on the Image processing part. Meanwhile, since I maxed out Claude, I got Gemini to help me write some python scripts for Blender which diced up some models I've made in a very quick and automated way. I'm 3d printing each of those now. Meanwhile, also, Gemini helped me troubleshoot my Ubuntu server and figure out why the hard drive is working so hard.We succeeded in identify root cause and removing about 50 GB of bullshit. Yeah, I'm kind of sold on LLMs ATM.
+
+## Jan 17, 2026 - Refinement
+Refining my image synthesizer.
+
 ## Jan 16, 2026 - Vibe Coding?
 Found out what I'm doing is called "Vibe coding", working with Claude. Interesting how close it feels to being a Product Owner or BSA and working with a developer. We started working on an Image Synthesizer. The halftones that I used to make 3D relief prints reminded me of a waveform when you look at them sideways. So I wondered what it would be like to try and play them. We'll see how far I get with this one. Almost finished printing all of the "realistic" 3D model failures. If there are no failures in Art, then Claude gets a pass and we celebrate all creations.
 
