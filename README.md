@@ -4,8 +4,11 @@ This is my current work status
 [ [Paintings](http://www.vivier.net/paintings) ] -
 [ [Contact](http://www.vivier.net/contact) ]
 
+## Jan 24, 2026 - Snowmagedden fakeout
+Incredible progress with Chatgpt and my new version of image to sound. This may be more Image to Waveform and I'm kind of blown away. The concept is so simple (Implementable) that we used it for television signals and eventually any data that travels over sound. Of course, I could never do that alone. My brain groks logic paths, but also flips variables and numbers. I literally couldn't do this without this tool (unless I had a dedicated and patient person.) 
+
 ## Jan 23, 2026 - Iterative failures
-Reaktor was no good. Supercollider is neat, but not for now. Working with them in collaboration with Claude (or ChatGPT or Gemini) was just terrible. ChatGPT gave me a solid architectural answer, so we've been diving down into p5.js and hydra: Vector Oscilloscope inspired. ChatGPT took me literally and decided to start scanning the image, as if we were going to display on a CRT. Not too shabby. 
+Reaktor was no good. Supercollider is neat, but not for now. Working with them in collaboration with Claude (or ChatGPT or Gemini) was just terrible. ChatGPT gave me a solid architectural answer, so we've been diving down into p5.js and hydra: Vector Oscilloscope inspired. ChatGPT took me literally and decided to start scanning the image, as if we were going to display on a CRT. Not too shabby.
 
 ## Jan 20, 2026 - Supercollider
 We're pivoting to supercollider instead of Reaktor. Claude can't see inside Reaktor well to help and ... I don't know Reaktor.
