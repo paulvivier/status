@@ -4,6 +4,9 @@ This is my current work status
 [ [Paintings](http://www.vivier.net/paintings) ] -
 [ [Contact](http://www.vivier.net/contact) ]
 
+## Jan 29, 2026
+Gone down a hole I didn't expect. Installed an LLM on my "workstation" and like it. Super slow, but it's a very old computer. Looking into the world of GPUs which is a spaghetti mess to understand. 
+
 ## Jan 25, 2026 - Next?
 I'm in a cycle of building new tools and trying new types of transformations. At some point, these need some cohesion, but right now, I feel like I'm exploring tangents and back roads.
 
