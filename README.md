@@ -4,8 +4,13 @@ This is my current work status
 [ [Paintings](http://www.vivier.net/paintings) ] -
 [ [Contact](http://www.vivier.net/contact) ]
 
+## Feb 1, 2026 - Documenting
+Quickly found out that I'm gonna need a new computer (and graphics card). I've had my laptop for about 6 years, so I think I've done well. New computer will be dual boot Windows/Linux.
+
+I'm also documenting the Analog-to-Digital Ad Naseum work. There were starting to be so many things I was losing track of them. I'll post as a blog entry on my website when I'm done.
+
 ## Jan 29, 2026
-Gone down a hole I didn't expect. Installed an LLM on my "workstation" and like it. Super slow, but it's a very old computer. Looking into the world of GPUs which is a spaghetti mess to understand. 
+Gone down a rabbit hole that I didn't expect. Installed an LLM on my "workstation" and like it. Super slow, but it's a very old computer. Looking into the world of GPUs which is a spaghetti mess to understand.
 
 ## Jan 25, 2026 - Next?
 I'm in a cycle of building new tools and trying new types of transformations. At some point, these need some cohesion, but right now, I feel like I'm exploring tangents and back roads.
