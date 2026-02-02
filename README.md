@@ -4,6 +4,9 @@ This is my current work status
 [ [Paintings](http://www.vivier.net/paintings) ] -
 [ [Contact](http://www.vivier.net/contact) ]
 
+## Feb 2, 2026 - Documenting
+Finishing up my document for the Analoge-to-Digital Ad naseum. Maybe. 
+
 ## Feb 1, 2026 - Documenting
 Quickly found out that I'm gonna need a new computer (and graphics card). I've had my laptop for about 6 years, so I think I've done well. New computer will be dual boot Windows/Linux.
 
