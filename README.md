@@ -4,8 +4,29 @@ This is my current work status
 [ [Paintings](http://www.vivier.net/paintings) ] -
 [ [Contact](http://www.vivier.net/contact) ]
 
+## Feb 18, 2026 - Tabletop Jukebox
+I've been starting my day off in [https://github.com/DISTRHO/Cardinal/](Cardinal), downloading a continuous generative patch someone made and letting it loop. Helps me to settle into a good hyperfocus zone. No commercials. No monthly fees.
+
+Ripping out the previous wire harness I made for Tabletop Jukebox. The current gobblygook was a proof of concept, and is shorting out somewhere. It's more of a miracle that it works at all. Looking into connector types that can cleanly bridge the connections to my Pi's GPIOs. Did I mention I love my new basement studio?
+
+## Feb 17, 2026 - Back in Business
+The last two week were prepping my new studio location. Same house, but in the basement. Short version is: Its darker, but I finally have space for everything. It is very convenient and will improve my daily output. Shorter (physical) cycle time when reaching for tools.
+
+Since that is the case, I have jumped back into the Tabletop Jukebox. This time, without Spotify. I still need to look over the final doc for 'A to D' and publish.
+
+
+## Feb 7, 2026
+Finished first draft of A to D. Need to proofread it now and then get someone else to review. I've been working on moving my studio/lab to another room in the house. I was waiting for some "construction" work to be done, and then clean up. Now I'm trying to lay out where to put everything.
+
+In the mean time, I've been terribly distracted with how effective Claude can be at coding. I had an idea last night to update my Tabletop Jukebox project which previously played on Spotify, to instead use my home media server which (of course!) is open sourced and has an easy to use API. I made a quick browser based
+UI and now making a CLI tool that can run headless. I still have to troubleshoot the keypad entry and software, but that's for another day (when I get my electronic workbench station set up!)
+
+## Feb 3, 2026
+Still adding more to "the document".
+
+
 ## Feb 2, 2026 - Documenting
-Finishing up my document for the Analoge-to-Digital Ad naseum. Maybe. 
+Finishing up my document for the Analog-to-Digital Ad nauseum. Maybe. Looking into understanding stingrays and rayhunters. Also re-organizing my lab/studio. May move to a different room to get more space.
 
 ## Feb 1, 2026 - Documenting
 Quickly found out that I'm gonna need a new computer (and graphics card). I've had my laptop for about 6 years, so I think I've done well. New computer will be dual boot Windows/Linux.
