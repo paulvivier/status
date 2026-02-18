@@ -7,7 +7,7 @@ This is my current work status
 ## Feb 18, 2026 - Tabletop Jukebox
 I've been starting my day off in [https://github.com/DISTRHO/Cardinal/](Cardinal), downloading a continuous generative patch someone made and letting it loop. Helps me to settle into a good hyperfocus zone. No commercials. No monthly fees.
 
-Ripping out the previous wire harness I made for Tabletop Jukebox. The current gobblygook was a proof of concept, and is shorting out somewhere. It's more of a miracle that it works at all. Looking into connector types that can cleanly bridge the connections to my Pi's GPIOs. Did I mention I love my new basement studio?
+Ripping out the previous wire harness I made for Tabletop Jukebox. The current gobblygook was a proof of concept, and is shorting out somewhere. It's more of a miracle that it works at all. Looking into replacing my fragile wire harness with better connectors that can cleanly bridge the connections from the jukebox keypad to my Pi's GPIOs . Did I mention I love my new basement studio?
 
 ## Feb 17, 2026 - Back in Business
 The last two week were prepping my new studio location. Same house, but in the basement. Short version is: Its darker, but I finally have space for everything. It is very convenient and will improve my daily output. Shorter (physical) cycle time when reaching for tools.
