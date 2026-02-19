@@ -4,6 +4,9 @@ This is my current work status
 [ [Paintings](http://www.vivier.net/paintings) ] -
 [ [Contact](http://www.vivier.net/contact) ]
 
+## Feb 19, 2026 - 3D printer
+Digging through my stuff to fix the Jukebox, I found another Pi. Instead of letting it just sit and wait, I installed a headless Octoprint version of the OS to connect to the Prusa printer. Also had an extra TTGO T-Journal that had a camera on it. Managed to update the firmware (ESP32) and get it working, now it's aimed at the printer and accessed through Octoprint. I should be able to get timelapse videos now.
+
 ## Feb 18, 2026 - Tabletop Jukebox
 I've been starting my day off in [https://github.com/DISTRHO/Cardinal/](Cardinal), downloading a continuous generative patch someone made and letting it loop. Helps me to settle into a good hyperfocus zone. No commercials. No monthly fees.
 
