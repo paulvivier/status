@@ -4,6 +4,9 @@ This is my current work status
 [ [Paintings](http://www.vivier.net/paintings) ] -
 [ [Contact](http://www.vivier.net/contact) ]
 
+## Apr 9, 2026 - Crap!
+Wow. So, I'm sorry. I got a new desktop and discovered local AI. Large rabbit hole that I will have to fill in later. However, I have completed the Jukebox V2 and am now prepping for the April 25 & 26th Open Studios Tour for Roanoke. 
+
 ## Feb 19, 2026 - 3D printer
 Digging through my stuff to fix the Jukebox, I found another Pi. Instead of letting it just sit and wait, I installed a headless Octoprint version of the OS to connect to the Prusa printer. Also had an extra TTGO T-Journal that had a camera on it. Managed to update the firmware (ESP32) and get it working, now it's aimed at the printer and accessed through Octoprint. I should be able to get timelapse videos now.
 
