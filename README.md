@@ -1,8 +1,10 @@
 # paul vivier
 This is my current work status
+
 [ [Status](https://paulvivier.github.io/status/) ] -
 [ [Paintings](http://www.vivier.net/paintings) ] -
-[ [Contact](http://www.vivier.net/contact) ]
+[ [Contact](http://www.vivier.net/contact) ] -
+[ [Blog](http://www.vivier.net/blog) ]
 
 ## Apr 15, 2026 - Its closing in ...
 Updating my web site. Adding a few more pages. The goal is that for the open studio tour, I'll have qr codes next to various pieces of work that will link visitors to a description that is served on the web site. For example, [Jukebox Version 2!](https://www.vivier.net/blog/how-to-get-a-tabletop-jukebox-working-again/) . Weeded about 100 feet of raised beds in the past two weeks. Pulled ungodly amounts of crabgrass vines out of the useless clay soil.  Filled them with compost mulch and plants: lavender, rosemary, foxglove, strawberries. My better half added arugula, tomatoes greek oregano, pansies and a few others to the mix. Pretty springtime! 
