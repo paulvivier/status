@@ -4,6 +4,9 @@ This is my current work status
 [ [Paintings](http://www.vivier.net/paintings) ] -
 [ [Contact](http://www.vivier.net/contact) ]
 
+## Apr 15, 2026 - Its closing in ...
+Updating my web site. Adding a few more pages. The goal is that for the open studio tour, I'll have qr codes next to various pieces of work that will link you to the description on the web site. For example, [Jukebox Version 2!](https://www.vivier.net/blog/how-to-get-a-tabletop-jukebox-working-again/) . Weeded about 100 feet of raised beds in the past two weeks. Pulled ungodly amounts of crabgrass vines out of the useless clay soil.  Filled them with compost mulch and plants: lavender, rosemary, foxglove, strawberries. My better half added arugula, tomatoes greek oregano, pansies and a few others to the mix. Pretty springtime! 
+
 ## Apr 9, 2026 - Crap!
 Wow. So, I'm sorry. I got a new desktop and discovered local AI. Large rabbit hole that I will have to fill in later. However, I have completed the Jukebox V2 and am now prepping for the April 25 & 26th Open Studios Tour for Roanoke. 
 
@@ -11,7 +14,7 @@ Wow. So, I'm sorry. I got a new desktop and discovered local AI. Large rabbit ho
 Digging through my stuff to fix the Jukebox, I found another Pi. Instead of letting it just sit and wait, I installed a headless Octoprint version of the OS to connect to the Prusa printer. Also had an extra TTGO T-Journal that had a camera on it. Managed to update the firmware (ESP32) and get it working, now it's aimed at the printer and accessed through Octoprint. I should be able to get timelapse videos now.
 
 ## Feb 18, 2026 - Tabletop Jukebox
-I've been starting my day off in [https://github.com/DISTRHO/Cardinal/](Cardinal), downloading a continuous generative patch someone made and letting it loop. Helps me to settle into a good hyperfocus zone. No commercials. No monthly fees.
+I've been starting my day off in [Cardinal](https://github.com/DISTRHO/Cardinal/), downloading a continuous generative patch someone made and letting it loop. Helps me to settle into a good hyperfocus zone. No commercials. No monthly fees.
 
 Ripping out the previous wire harness I made for Tabletop Jukebox. The current gobblygook was a proof of concept, and is shorting out somewhere. It's more of a miracle that it works at all. Looking into replacing my fragile wire harness with better connectors that can cleanly bridge the connections from the jukebox keypad to my Pi's GPIOs . Did I mention I love my new basement studio?
 
