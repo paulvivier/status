@@ -6,6 +6,9 @@ This is my current work status
 [ [Contact](http://www.vivier.net/contact) ] -
 [ [Blog](http://www.vivier.net/blog) ]
 
+## April 30, 2026 - Reboot
+I have lots of ideas and inspiration from all the folks that visited for the Open Studio Tour this past weekend. I'm continuing a painting of open red tulips and working on a couple of telephone projects. Currently trying to get into EDL mode on a flip phone, hoping to use them as a way to connect the pay phone.
+
 ## April 22, 2026 - Website
 Added a few corresponding stories about some of the work that I've done, which will be visible on Saturday for the [Open Studios Tour](https://www.openstudiostourroanoke.com/). The prints for Abandoned Roanoke look amazing. 
 - [Abandoned Roanoke Photographs](https://www.vivier.net/blog/abandoned_roanoke_photographs/), 
