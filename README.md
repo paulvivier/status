@@ -7,7 +7,7 @@ This is my current work status
 [ [Blog](http://www.vivier.net/blog) ]
 
 ## May 12, 2026 - Goodbye 55
-Working on a 4x3 tulip painting, may be close to finishing. Tore up kitchen ceiling (cracked plaster and drop-panel ceilings removed). Working on Hermes-Agent to get a agent-based workflow locally. Seems to be coming around. Painful tweaking though. Using Gemini to help advise and set up. 
+Working on a 4x3 tulip painting, may be close to finishing. Tore up kitchen ceiling (cracked plaster and drop-panel ceilings removed). Working on Hermes-Agent to get a agent-based workflow locally. Seems to be coming around. Painful tweaking though. Using Gemini to help advise and set up. As a test, I'm having it write a GPU temperature monitor that notifies me in Gnome when thresholds are high.
 
 ## April 30, 2026 - Reboot
 I have lots of ideas and inspiration from all the folks that visited for the Open Studio Tour this past weekend. I'm continuing a painting of open red tulips and working on a couple of telephone projects. Currently trying to get into EDL mode on a flip phone, hoping to use them as a way to connect the pay phone.
