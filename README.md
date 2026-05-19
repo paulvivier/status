@@ -6,6 +6,9 @@ This is my current work status
 [ [Contact](http://www.vivier.net/contact) ] -
 [ [Blog](http://www.vivier.net/blog) ]
 
+## May 18, 2026 - Nerve-be-gone
+Had a root canal and renewed my driver's license. Painting on a white peonies. It's fairly complicated and many layers, so is taking patience. I think one of the hardest things to do while painting is to not do anything else. I totally want to vibe code and make some art on my "new" B&W Diebold TV.
+
 ## May 12, 2026 - Goodbye 55
 Working on a 4x3 tulip painting, may be close to finishing. Tore up kitchen ceiling (cracked plaster and drop-panel ceilings removed). Working on Hermes-Agent to get a agent-based workflow locally. Seems to be coming around. Painful tweaking though. Using Gemini to help advise and set up. As a test, I'm having it write a GPU temperature monitor that notifies me in Gnome when thresholds are high.
 
