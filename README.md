@@ -6,6 +6,16 @@ This is my current work status
 [ [Contact](http://www.vivier.net/contact) ] -
 [ [Blog](http://www.vivier.net/blog) ]
 
+## Aug 25, 2026 - Whoa...
+Time is flying! I've been doing so much, there's no time for a status update! So here's a summary: 
+- Facilitating a Sketchbook Social at Art Project Roanoke every other Wednesday.
+- Had a SHOW at Art Project Roanoke in July where I presented Flowers painting and Tower paintings.
+- Gonna have another SHOW at WVTF studios in Roanoke starting next month with a reception in October!
+- Participating in September's Strada challenge to paint from life for 30 days.
+- Will have a vendor tent at Roanoke's Old Southwest Porchfest where I'll be selling all of my paint-from-life original paintings at unframed prices.
+- I'm keeping IG up to date the most, so make sure to check me out there @paulvivier
+
+
 ## May 18, 2026 - Nerve-be-gone
 Had a root canal and renewed my driver's license. Painting on a white peonies. It's fairly complicated and many layers, so is taking patience. I think one of the hardest things to do while painting is to not do anything else. I totally want to vibe code and make some art on my "new" B&W Diebold TV.
 
