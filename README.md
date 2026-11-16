@@ -6,6 +6,10 @@ This is my current work status
 [ [Contact](http://www.vivier.net/contact) ] -
 [ [Blog](http://www.vivier.net/blog) ]
 
+## Nov 16, 2026 - Moving locations
+I think it's a reasonable expectation to have status updates here as long as my computer is part of my process, but as of late, ever since the Strada Easel challenge, I've been painting from life. This shift has made me more dependent upon my hand-dandy-notebook to document my process. Since August, I've made 30+ small paintings, sold work at porchfest, drew live at Art Project in October, and IG has acknowledged that they will be using all content to train AI. So ... maybe less IG. Sign up for my newsletter at www.vivier.net/contact to get more updates instead. Website will be my focus for showing my work now (again).
+
+
 ## Aug 25, 2026 - Whoa...
 Time is flying! I've been doing so much, there's no time for a status update! So here's a summary: 
 - Facilitating a Sketchbook Social at Art Project Roanoke every other Wednesday.
